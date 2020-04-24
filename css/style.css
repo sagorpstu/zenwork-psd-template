@@ -352,6 +352,12 @@ a{
 
 @media (max-width:767px){
 
+h2 {
+	font-size: 18px;
+	line-height: 30px;
+	text-align: center;
+}
+
 .header-section .row {
 	min-height: 70vh;
 }
@@ -362,6 +368,26 @@ a{
 
 .hero-text {
 	margin-top: 40%;
+	text-align: center;
+}
+
+
+.hero-text h1 {
+	
+	font-size: 22px;
+	text-align: center;
+}
+
+.hero-text p {
+	margin-bottom: 25px;
+	text-align: center;
+}
+
+.hero-text h5 {
+	text-align: center;
+	font-size: 18px;
+	text-transform: capitalize;
+	line-height: 35px;
 }
 
 .card-text {
@@ -374,13 +400,13 @@ a{
 	font-size: 20px;
 }
 
-.card-text p {
+ .card-text p {
 	color: #e9dcdc;
 	font-weight: 500;
 	padding: 0 5%;
 }
-	
-.card-banner .form-control {
+
+.form-control {
 	max-width: 50%;
 }
 

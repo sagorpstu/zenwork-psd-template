@@ -379,8 +379,8 @@ a{
 	font-weight: 500;
 	padding: 0 5%;
 }
-
-.form-control {
+	
+.card-banner .form-control {
 	max-width: 50%;
 }
 
